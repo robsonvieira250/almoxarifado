@@ -1,3 +1,7 @@
 prateleiras
 
 1 será destinado materiais eletricos
+
+2 será destinado parafusos
+
+3 será destinado peças de maquinas
