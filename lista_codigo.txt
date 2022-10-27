@@ -3,3 +3,6 @@ codigo de materia prima
 codigo de peças
 
 codigo de elementos de fixação
+
+codigo estruturação maquinas
+
